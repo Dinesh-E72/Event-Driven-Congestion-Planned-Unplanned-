@@ -434,8 +434,8 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👤 Author
 
-**JAYASURYA KK**
-- GitHub: [@JAYASURYA-KK](https://github.com/JAYASURYA-KK)
+**DINESH E**
+- GitHub: [@Dinesh-E72](https://github.com/Dinesh-E72)
 - Live Demo: [decentralized-edge-ai-for-urban-mob.vercel.app](https://decentralized-edge-ai-for-urban-mob.vercel.app/)
 
 ---
